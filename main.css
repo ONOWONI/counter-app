@@ -1,0 +1,31 @@
+* {
+    color:  #93AEAB;
+    background-color:#180B17;
+}
+
+
+.container {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    padding: 20px;
+    margin-top: 250px;
+}
+
+.container h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 25px;
+}
+
+.container div {
+    padding: auto;
+    margin-bottom: 49px;
+}
+
+button {
+
+    margin-right: 7px;
+}
+
+
+
